@@ -24,7 +24,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/Employees-Burnout-Analysis-and-Prediction.git
+git clone https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction.git
 Set up the Python environment and install the required dependencies.
 
 Explore the dataset in the data directory and familiarize yourself with the data structure and features.
