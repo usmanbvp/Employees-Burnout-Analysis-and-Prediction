@@ -15,11 +15,11 @@ The dataset used for this project contains anonymized employee data with relevan
 
 The project is organized into the following directories and files:
 
-[`data`](data/employee_burnout_analysis.xlsx): Contains the dataset used for analysis and prediction.
-[`notebooks`](Employees-Burnout-Analysis-and-Prediction.ipynb): Includes Jupyter notebooks for data exploration, model development, and evaluation.
-[`Analysis`](EmployeesBurnoutAnalysis.pbix):This power bi providing easily interpretable data visualizations, for a clear understanding of the dataset at hand.
-[`models`](model.pkl): Contains trained models for predicting employee burnout.
-[`README`](README.md): The readme file providing an overview of the project.
+- [`data`](data/employee_burnout_analysis.xlsx): Contains the dataset used for analysis and prediction.
+- [`notebooks`](Employees-Burnout-Analysis-and-Prediction.ipynb): Includes Jupyter notebooks for data exploration, model development, and evaluation.
+- [`Analysis`](EmployeesBurnoutAnalysis.pbix):This power bi providing easily interpretable data visualizations, for a clear understanding of the dataset at hand.
+- [`models`](model.pkl): Contains trained models for predicting employee burnout.
+- [`README`](README.md): The readme file providing an overview of the project.
 
 ## Getting Started
 
@@ -37,10 +37,6 @@ git clone https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction.
 
 5.Once you have trained and evaluated the models, you can save them  for future use.
 Then you may deploy the project.
-
-## Additional Resources
-
-In addition to the project materials provided in this repository, you may find the following resources helpful for further exploration and understanding of employee burnout:
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code and resources according to the terms of the license.
