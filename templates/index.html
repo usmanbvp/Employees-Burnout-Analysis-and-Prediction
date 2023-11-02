@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>EMPLOYEES BURNOUT PRDICTION</title>
+    <link rel="stylesheet" href ='static/styles.css'>
+</head>
+<body>
+    <h3>EMPLOYEES BURNOUT PREDICTION</h3>
+
+        <form  action="/predict"  method="post">
+            <label for="designation">Designation:</label>
+            <input type="number" id="designation" name="designation" step="0.01" required><br><br>
+
+            <label for="resource_allocation">Resource Allocation:</label>
+            <input type="number" id="resource_allocation" name="resource_allocation" step="0.01" required><br><br>
+
+            <label for="mental_fatigue_score">Mental Fatigue Score:</label>
+            <input type="number" id="mental_fatigue_score" name="mental_fatigue_score" step="0.01" required><br><br>
+
+            <label for="company_type">Company Type:</label>
+            <select name="company_type" id="company_type">
+                <option value="Service">Service</option>
+                <option value="Product">Product</option>
+            </select><br><br>
+
+            <label for="wfh_setup_available">WFH Setup Available:</label>
+            <select name="wfh_setup_available" id="wfh_setup_available">
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+            </select><br><br>
+
+            <label for="gender">Gender:</label>
+            <select name="gender" id="gender">
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+            </select><br><br>
+            <input type="submit" value="Predict" class="button-green" >
+        </form>
+
+        {% if prediction %}
+        <h1 align="center"> <span style="color: green;">Burn Rate:</span> <span style="color: red;">{{ prediction }}</span></h1>
+        {% endif %}
+        
+    <br><br><br>
+            <div class="centered-container">
+                <a href="https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction.git" >Click to get Source Code</a>
+            </div>
+
+</body>
+</html>
+
+
+

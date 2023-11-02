@@ -3,9 +3,9 @@
 
 Welcome to the Employees Burnout Analysis and Prediction project! This repository contains all the resources and materials needed to analyze and predict employee burnout based on various factors.
 
-## Project Overview
+## Description
 
-Employee burnout is a significant concern in the workplace. This project aims to develop a predictive model using machine learning techniques to analyze employee burnout and provide insights for effective prevention and management strategies. By understanding the factors contributing to burnout and developing prediction models, we aim to identify at-risk employees and provide targeted support.
+This project aims to develop a predictive model using machine learning techniques to predict burn rate of a Employee based on various factors. By understanding the factors contributing to burnout and developing prediction models, we aim to identify at-risk employees and provide targeted support.
 
 ## Dataset 
 
