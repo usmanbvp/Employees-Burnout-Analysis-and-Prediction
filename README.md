@@ -83,7 +83,7 @@ http://127.0.0.1:5000/
 
 5. Based on the results, you can take any necessary actions, make decisions, or utilize the project for your specific use case.
 
-## 🌐Deployemtnt
+## 🌐Deployment
 
 To deploy this project, follow these steps:
 
