@@ -1,6 +1,6 @@
 <h1 align = center>Employees Burnout Analysis and Prediction</h1>
 
-![Employees-Burnout-Analysis-and-Prediction](images/burnout1.jpg)
+![Employees-Burnout-Analysis-and-Prediction](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/blob/main/images/burnout1.jpg)
 <div style = "text-align : center">
 
 ![GitHub forks](https://img.shields.io/github/forks/usmanbvp/Employees-Burnout-Analysis-and-Prediction?style=flat-square&logo=github)
