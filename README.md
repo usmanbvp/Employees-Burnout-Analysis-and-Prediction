@@ -1,6 +1,6 @@
 <h1 align = center>Employees Burnout Analysis and Prediction</h1>
 
-![Employees-Burnout-Analysis-and-Prediction](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/blob/main/images/burnout1.jpg)
+![Employees-Burnout-Analysis-and-Prediction](images/burnout1.jpg)
 <div style = "text-align : center">
 
 ![GitHub forks](https://img.shields.io/github/forks/usmanbvp/Employees-Burnout-Analysis-and-Prediction?style=flat-square&logo=github)
@@ -69,7 +69,7 @@ http://127.0.0.1:5000/
 ```
 2. You will be presented with a user-friendly web app interface. Explore the available features and prediction options.
 <div style = "text-align: center;">
-<img src="images/webapp_on_local_machine.png" alt="web interface" width = "700" height = "350">
+<img src="https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/blob/main/images/webapp_on_local_machine.png" alt="web interface" width = "700" height = "350">
 </div>
 
 
