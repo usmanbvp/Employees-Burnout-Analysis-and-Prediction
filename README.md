@@ -15,7 +15,7 @@
 
 ## 📝 Description
 
-- This project aims to develop a predictive model using machine learning techniques to predict burn rate of a Employee based on various factors. 
+- This project aims to develop a predictive model using machine learning techniques to predict burnout rate of a Employee based on various factors. 
 - By understanding the factors contributing to burnout and developing prediction models, we aim to identify at-risk employees and provide targeted support.
 <p align="center">
   <a href="https://employeesburnoutprediction.pythonanywhere.com/", style="color:#FF5733;">
@@ -62,14 +62,14 @@ python app.py
 ```
 ## 👨🏻‍💻How to Use this Project?
 
-Once you'have successfully installed and run the project, you can use it to  predict the burnrate of Emoloyees. Here's how to get started:
+Once you'have successfully installed and run the project, you can use it to  predict the burnout rate of Emoloyees. Here's how to get started:
 1. Open your web browser and navigate to 
 ```
 http://127.0.0.1:5000/
 ```
 2. You will be presented with a user-friendly web app interface. Explore the available features and prediction options.
 <div style = "text-align: center;">
-<img src="https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/blob/main/images/webapp_on_local_machine.png" alt="web interface" width = "700" height = "350">
+<img src="images/webapp_on_local_machine.png" alt="web interface" width = "700" height = "350">
 </div>
 
 
