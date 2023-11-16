@@ -1,6 +1,6 @@
 <h1 align = center>Employees Burnout Analysis and Prediction</h1>
 
-<img src = "images/burnout1.jpg" alt = "burnout image">
+![Burnout Image](images/burnout1.jpg)
 
 <div style = "text-align : center">
 
