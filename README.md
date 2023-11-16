@@ -71,7 +71,7 @@ http://127.0.0.1:5000/
 ```
 2. You will be presented with a user-friendly web app interface. Explore the available features and prediction options.
 <div style = "text-align: center;">
-<img src="[images/webapp_on_local_machine.png](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/assets/119880028/6d8af11c-6264-47ec-9406-c130c5ee3283)" alt="web interface" width = "700" height = "350">
+<img src="https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/assets/119880028/6d8af11c-6264-47ec-9406-c130c5ee3283" alt="web interface" width = "700" height = "350">
 </div>
 
 
@@ -80,7 +80,7 @@ http://127.0.0.1:5000/
 4. The web app should provide you with results based on your input.
 
 <div style="text-align: center;">
-  <img src="[images/local_machine_after_prediction.png](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/assets/119880028/ed58c7c2-e1c2-4301-8138-2cda76987f93)" alt="prediction results" width="700" height="350">
+  <img src="https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction/assets/119880028/ed58c7c2-e1c2-4301-8138-2cda76987f93" alt="prediction results" width="700" height="350">
 </div>
 
 
